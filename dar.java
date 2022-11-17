@@ -1,7 +1,7 @@
-public class Hello {
+public class dar {
 	public static void main(String[] args) {
 		for (int i=1;i<=10; i++) {
-			System.out.println("Dar Eini" +i);
+			System.out.println("Dar Eini " +i);
 		}
 	}
 }
